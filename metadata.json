@@ -1,0 +1,6 @@
+{
+  "name": "حسابداری فروشگاهی",
+  "description": "یک نرم‌افزار حسابداری فروشگاهی کامل و مدرن به‌همراه مدیریت کالا، فاکتور خرید و فروش، حساب اشخاص و نمودارهای آماری تحت وب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
