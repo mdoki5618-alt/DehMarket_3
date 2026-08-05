@@ -60,6 +60,8 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "electron":"^33.0.0",
+    "electron-builder":"^25.1.8",
     "autoprefixer": "^10.4.21",
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.1.14",
