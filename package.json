@@ -20,12 +20,9 @@
     },
     "files": [
       "dist/**/*",
-      "electron.js",
-      "build/icon.ico"
+      "electron.js"
     ],
-    "icon": "build/icon.ico",
     "win": {
-      "icon": "build/icon.ico",
       "target": [
         {
           "target": "nsis",
@@ -46,9 +43,7 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "سیستم حسابداری",
-      "installerIcon": "build/icon.ico",
-      "uninstallerIcon": "build/icon.ico"
+      "shortcutName": "سیستم حسابداری"
     }
   },
   "dependencies": {

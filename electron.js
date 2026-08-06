@@ -64,7 +64,6 @@ function createWindow() {
     minWidth: 960,
     minHeight: 640,
     title: 'سیستم حسابداری و انبارداری',
-    icon: path.join(__dirname, 'build', 'icon.ico'),
     autoHideMenuBar: true,
     webPreferences: {
       nodeIntegration: true,
